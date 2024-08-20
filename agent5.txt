@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/266.0.0.64.124;FBBV/209629362;FBDM/{density=2.25,width=720,height=1372};FBLC/it_IT;FBRV/0;FBCR/PosteMobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J600FN;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
